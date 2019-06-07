@@ -20,5 +20,5 @@ end
 
 def genre_name
   self.try(:genre).try(:name)
-end   
+end
 end
